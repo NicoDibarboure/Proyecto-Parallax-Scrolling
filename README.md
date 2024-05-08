@@ -5,5 +5,6 @@
 - Contiene animaciones sobre imágenes con Gsap.
 
 💙 [Gsap] https://gsap.com/
+💙 [Deploy] https://parallax-scrolling-lovat.vercel.app/
 
 ![preview img](/preview.png)
